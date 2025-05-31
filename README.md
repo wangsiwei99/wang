@@ -1,4 +1,6 @@
 # Hello GitHub Actions
+# 我的第一个项目
+这是一个简单的测试项目，用于学习如何使用 GitHub。
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
